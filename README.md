@@ -34,6 +34,9 @@ It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as
     * [Iron Golem](https://minecraft.wiki/w/Iron_Golem)
   * [Pillager Outpost](https://minecraft.wiki/w/Pillager_Outpost)
     * [Pillager](https://minecraft.wiki/w/Pillager)
+* [Java Intro with Minecraft Modding](https://www.youtube.com/playlist?list=PLKGarocXCE1FeXvEogpjz4SvHxF_FJRO6)
+* [Forge 1.20.X Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-)
+  * [1.19.X Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl)
 
 ## Acknowledgement
 * [Kevin Dang](https://github.com/kevinthedang)
