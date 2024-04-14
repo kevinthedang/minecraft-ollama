@@ -1,7 +1,15 @@
-# Minecraft Ollama Integration [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-darkgreen.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Release Badge](https://img.shields.io/github/v/release/kevinthedang/minecraft-ollama?logo=github)](https://github.com/kevinthedang/minecraft-ollama/releases/latest)
-It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as a Mod where you can talk to villagers and have a model that can watch your world and provide context to the player about what is happening in their world.
+<div align="center">
+    <p><a href="#"><a href="https://ollama.ai/"><img alt="ollama" src="./imgs/ollama-icon.png" width="200px" /></a><img alt="+" src="./imgs/grey-plus.png" width="100px" /></a><a href="https://www.minecraft.net/"><img alt="discord" src="./imgs/minecraft-icon.png" width="220px" /></a></p>
+    <h1>Minecraft Ollama Integration</h1>
+    <h3><a href="#"></a>Ollama as your Minecraft World Overseer</h3>
+    <p><a href="#"></a><a href="https://creativecommons.org/licenses/by/4.0/"><img alt="License" src="https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg" /></a>
+    <a href="#"></a><a href="https://github.com/kevinthedang/minecraft-ollama/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/kevinthedang/minecraft-ollama?logo=github" /></a>
+    <!-- <a href="#"></a><a href="https://github.com/kevinthedang/minecraft-ollama/actions/workflows/sample.yml"><img alt="Build Status" src="https://github.com/kevinthedang/minecraft-ollama/actions/workflows/sample.yml/badge.svg" /></a> -->
+</div>
 
-## Goals
+## About/Goals
+It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as a Mod/Plugin where you can talk to villagers and have a model that can watch your world and provide context to the player about what is happening in their world (this is why it will be called the Overseer). Another cool thing to do is to add events into the world for the NPCs to talk about!
+
 * [ ] Implement Ollama into minecraft to interact with the player (kind of like an AI pal)
   * [ ] World Events context
   * [ ] Nearby villages context
@@ -41,4 +49,4 @@ It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as
 ## Acknowledgement
 * [Kevin Dang](https://github.com/kevinthedang)
 
-[minecraft-ollama](https://github.com/kevinthedang/minecraft-ollama) © 2023 by [Kevin Dang](https://github.com/kevinthedang) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+[minecraft-ollama](https://github.com/kevinthedang/minecraft-ollama) © 2024 by [Kevin Dang](https://github.com/kevinthedang) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
