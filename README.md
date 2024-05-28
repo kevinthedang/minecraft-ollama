@@ -48,5 +48,6 @@ It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as
 
 ## Acknowledgement
 * [Kevin Dang](https://github.com/kevinthedang)
+* [Drew Bogdan](https://github.com/DrewBogdan)
 
 [minecraft-ollama](https://github.com/kevinthedang/minecraft-ollama) © 2024 by [Kevin Dang](https://github.com/kevinthedang) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
