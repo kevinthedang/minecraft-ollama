@@ -1,7 +1,9 @@
 ## Setup Development Environment
 * Get and IDE like IntelliJ IDEA or VS Code for developing with Java. I would recommend IntelliJ as that is what the Code owners will use.
-* Get a Java Development Kit (JDK) of [17+](https://adoptium.net/temurin/releases/?version=17)
-* Get the Latest (LTS) of [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) through the `Mdk` link. Click to skip the ad and it should download.
+* Get a Java Development Kit (JDK) of [17+](https://adoptium.net/temurin/releases/?version=17) and on installation:
+  * Add it to `PATH`.
+  * Change **Set JAVA_HOME variable** to ***Will be installed on local hard drive***
+* Get the Latest (LTS) of [Forge 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) through the `Mdk` link. Click to skip the ad and it should download.
 * Clone the repository and open with IntelliJ (or others somehow)
   * Allow for Grade to set up environment with Forge.
   * Most of the setup will already be done. We are utilizing [parchment](https://parchmentmc.org/docs/getting-started) instead of `official`.
