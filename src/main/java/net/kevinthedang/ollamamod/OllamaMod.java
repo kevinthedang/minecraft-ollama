@@ -20,7 +20,7 @@ import org.slf4j.Logger;
 public class OllamaMod {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "ollamamod";
-    // Directly reference a slf4j logger
+    // Directly references a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public OllamaMod() {
