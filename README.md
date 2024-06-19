@@ -17,7 +17,9 @@ It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as
     * For example, village was attacked my mobs, village built iron golem, village was raided
   * [ ] Villager context
     * For example, a villager can see a player, villager's friend died in the middle of the night
-    * **NOTE**: Conversations likely limited to villagers with jobs 
+
+> [!NOTE]
+> Conversations likely limited to villagers with jobs 
 
 ## Mod vs Plugin?
 * A ModPack will disassemble and assemble the game code to add something new into it when building the game.
