@@ -1,7 +1,7 @@
 <div align="center">
     <p><a href="#"><a href="https://ollama.com/"><img alt="ollama" src="./imgs/ollama-icon.png" width="200px" /></a><img alt="+" src="./imgs/grey-plus.png" width="100px" /></a><a href="https://www.minecraft.net/"><img alt="discord" src="./imgs/minecraft-icon.png" width="190px" /></a></p>
-    <h1>Minecraft Ollama Integration</h1>
-    <h3><a href="#"></a>Ollama as your Minecraft World AI Companion</h3>
+    <h1>Minecraft AI Companion</h1>
+    <h3><a href="#"></a>Ollama in your Minecraft World</h3>
     <p><a href="#"></a><a href="https://creativecommons.org/licenses/by/4.0/"><img alt="License" src="https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg" /></a>
     <a href="#"></a><a href="https://github.com/kevinthedang/minecraft-ollama/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/kevinthedang/minecraft-ollama?logo=github" /></a>
     <!-- <a href="#"></a><a href="https://github.com/kevinthedang/minecraft-ollama/actions/workflows/sample.yml"><img alt="Build Status" src="https://github.com/kevinthedang/minecraft-ollama/actions/workflows/sample.yml/badge.svg" /></a> -->
@@ -17,7 +17,9 @@ It would be awesome to implement [Ollama](https://ollama.com/) into Minecraft as
     * For example, village was attacked my mobs, village built iron golem, village was raided
   * [ ] Villager context
     * For example, a villager can see a player, villager's friend died in the middle of the night
-    * **NOTE**: Conversations likely limited to villagers with jobs 
+
+> [!NOTE]
+> Conversations likely limited to villagers with jobs 
 
 ## Mod vs Plugin?
 * A ModPack will disassemble and assemble the game code to add something new into it when building the game.
